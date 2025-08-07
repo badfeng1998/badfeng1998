@@ -36,7 +36,7 @@ if(strpos($_SERVER['HTTP_USER_AGENT'], 'QQ/')!==false){
     <meta name="wap-font-scale" content="no" />
     <!--控制状态栏显示样式-->
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <link href="css/index.css" rel="stylesheet" type="text/css" />
+    <link href="/index.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="//cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
     <script type="text/javascript">
 $(function ($) {
@@ -54,13 +54,13 @@ function setRootFontSize() {
     <div id="Pan_WX">
         <!--微信访问-->
         <div class="fc_jt">
-            <img src="img/jt.png"></div>
+            <img src="/jt.png"></div>
                <div class="fc_wz">
                 点击屏幕右上角【...】<br />
                 使用【浏览器】打开
             </div>  
           <div class="fc_tp">
-            <img src="img/qq.png"></div>
+            <img src="/qq.png"></div>
         </div>
 </body>
 </html>
@@ -81,7 +81,7 @@ function setRootFontSize() {
     <meta name="wap-font-scale" content="no" />
     <!--控制状态栏显示样式-->
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-	<link href="css/index.css" rel="stylesheet" type="text/css" />
+	<link href="/index.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="//cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
     <script type="text/javascript">
 $(function ($) {
@@ -99,13 +99,13 @@ function setRootFontSize() {
     <div id="Pan_WX">
         <!--微信访问-->
         <div class="fc_jt">
-            <img src="img/jt.png"></div>
+            <img src="/jt.png"></div>
                <div class="fc_wz">
                 点击屏幕右上角【...】<br />
                 使用【浏览器】打开
             </div>  
           <div class="fc_tp">
-            <img src="img/wx_az.png"></div>
+            <img src="/wx_az.png"></div>
 		</div>
 </body>
 </html>
